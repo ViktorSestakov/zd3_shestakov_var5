@@ -1,0 +1,13 @@
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\bin\Debug\zd3_shestakov.exe.config
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\bin\Debug\zd3_shestakov.exe
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\bin\Debug\zd3_shestakov.pdb
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.csproj.AssemblyReference.cache
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.Form1.resources
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.Properties.Resources.resources
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.csproj.GenerateResource.cache
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.csproj.CoreCompileInputs.cache
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.exe
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shestakov.pdb
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\bin\Debug\ClassLib.dll
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\bin\Debug\ClassLib.pdb
+C:\Users\st310-06\Desktop\шестаков\zd3_shestakov\obj\Debug\zd3_shes.FA59519C.Up2Date
