@@ -4,6 +4,22 @@
     "C:\\Users\\st310-06\\Desktop\\шестаков\\Testiki\\Testiki.csproj": {}
   },
   "projects": {
+    "C:\\Users\\st310-06\\Desktop\\шестаков\\ClassLib\\ClassLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\st310-06\\Desktop\\шестаков\\ClassLib\\ClassLib.csproj",
+        "projectName": "ClassLib",
+        "projectPath": "C:\\Users\\st310-06\\Desktop\\шестаков\\ClassLib\\ClassLib.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\st310-06\\Desktop\\шестаков\\Testiki\\Testiki.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -33,7 +49,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\st310-06\\Desktop\\шестаков\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "C:\\Users\\st310-06\\Desktop\\шестаков\\ClassLib\\ClassLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
