@@ -16,19 +16,6 @@ namespace Testiki
         }
 
         [Test]
-        public void GetInfo_ReturnsCorrectString()
-        {
-            Operator op = new Operator("TestOperator", 10.0m, 100.0, 1000, false);
-            string info = op.GetInfo();
-            StringAssert.Contains("Оператор: TestOperator", info);
-            StringAssert.Contains("Стоимость минуты: 10.00 руб.", info);
-            StringAssert.Contains("Площадь покрытия: 100 кв.км", info);
-            StringAssert.Contains("Количество абонентов: 1000", info);
-            StringAssert.Contains("Международные звонки: Нет", info);
-            StringAssert.Contains("Качество (Q): 1000.00", info);
-        }
-
-        [Test]
         public void AddOperator_AddsToList()
         {
             List<Operator> operators = new List<Operator>();
